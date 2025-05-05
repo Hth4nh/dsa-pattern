@@ -1,3 +1,9 @@
+#include <vector>
+#include <cassert>
+#include <initializer_list>
+
+using namespace std;
+
 const int MOD = 1e9 + 7;
 
 template<typename T>
